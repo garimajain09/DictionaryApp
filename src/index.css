@@ -1,0 +1,67 @@
+*{
+  margin:0 auto;
+  padding:0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.app h1{
+  text-align: center;
+  background-color:#192021;
+  color:white;
+  height:50px;
+  padding: 10px;
+  padding-top: 30px;
+}
+.container{
+  margin-top: 40px;
+  text-align: center;
+  width: 700px;
+  box-shadow: 0px 2px 2px 2px rgb(211, 207, 207);
+}
+.searchBar{
+  padding-top: 30px;
+}
+.icon{
+  width: 20px;
+  height:20px;
+}
+.searchBar input{
+  width:350px;
+  padding: 5px;
+  font-size: 20px;
+}
+
+.searchBar button{
+  width:130px;
+  padding:7px;
+  margin-left: 5px;
+  font-size: 20px;
+  border-radius: 3px;
+  background-color:orangered;
+  border: none;
+  color:white;
+}
+.datas{
+  text-align: left;
+  padding:40px 0px 50px 120px;
+}
+.datas p{
+  padding-top: 20px;
+  font-size: 18px;
+}
+.datas button{
+  font-size: 15px;
+  padding:7px;
+  border: none;
+  border-radius: 2px;
+  background-color: black;
+  color:white;
+  margin-top: 40px;
+  margin-left: 190px;
+  cursor:pointer;
+}
+.p{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 20px;
+  color: rgb(95, 84, 84);
+}
